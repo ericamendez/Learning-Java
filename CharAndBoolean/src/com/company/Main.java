@@ -11,6 +11,16 @@ public class Main {
         boolean myBoolean = false;
         boolean isMale = true;
 
-        
+//      Primitive Types in Java
+//        byte
+//        short
+//        int
+//        long
+//        float
+//        double
+//        char
+//        boolean
+
+//        there is a way to create your own datatype (objects)
     }
 }
