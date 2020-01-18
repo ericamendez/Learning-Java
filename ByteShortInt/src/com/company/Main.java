@@ -11,7 +11,7 @@ public class Main {
         byte myByteMaxNum = 127;
 //        the value of all operations are integers, you need to type cast to wanted type
         byte newByte = (byte) (myByteMaxNum/2);
-         
+
 //        2 bytes, 1111111111111111, width of 16
         short myShortMin = -32768;
         short myShotMas = 32767;
